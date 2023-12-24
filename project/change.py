@@ -2,7 +2,7 @@ import speech_recognition
 import os
 
 def sound():
-		os.system("record.py")
+		os.system("python3 record.py")
 		r = speech_recognition.Recognizer()
 		with speech_recognition.AudioFile('./output.wav') as source:
 			audio = r.record(source)
