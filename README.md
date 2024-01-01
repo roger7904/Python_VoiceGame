@@ -1,13 +1,13 @@
 <p align="center">
+    <b>Python 程式設計 - 高雄地名有意義又真好 pin</b>
+    <br />
     <img src="./banner.png" alt="banner">
     <br />
     <br />
-    <b>Python 程式設計 - 高雄地名有意義又真好 pin</b>
-    <br />
     <b>利用 pyaudio 錄製語音，speech_recognition 將語音檔轉成文字</b>
-   <br />
+    <br />
     <b>最後判斷玩家的語音內容是否符合賓果圖上的地名，最先連線的獲勝</b>
-   <br />
+    <br />
     <b>一個高雄地名的賓果遊戲，玩家利用語音輪流進行賓果</b>
     <br />
     <br />
