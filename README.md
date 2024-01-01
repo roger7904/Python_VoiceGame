@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./doc/banner.png" alt="banner">
+    <img src="./banner.png" alt="banner">
     <br />
     <br />
     <b>Python 程式設計 - 高雄地名有意義又真好 pin</b>
