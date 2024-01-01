@@ -24,7 +24,7 @@
 
 ```bash
 # 主程式需要的相關套件
-pip install SpeechRecognition pyaudio pygame xpinyin
+pip3 install SpeechRecognition pyaudio pygame xpinyin
 # 安裝 FLAC，FLAC（Free Lossless Audio Codec）是一種音頻編碼格式
 # Linux
 sudo apt-get install flac
@@ -32,5 +32,7 @@ sudo apt-get install flac
 brew install flac
 # 確認是否已經安裝成功
 flac
+# 執行主程式開始遊玩
+python3 kao.py
 ```
 
